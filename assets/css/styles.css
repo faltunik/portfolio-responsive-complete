@@ -247,6 +247,7 @@ img {
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
+  margin-top: 1%;
 }
 
 .button:hover {
@@ -320,7 +321,7 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 15%;
 }
 
 .skills__css {
@@ -389,7 +390,7 @@ img {
 }
 
 .footer__title {
-  font-size: 2rem;
+  font-size: 1rem;
   margin-bottom: var(--mb-4);
 }
 
@@ -405,6 +406,11 @@ img {
 
 .footer__copy {
   font-size: var(--smaller-font-size);
+  color: #fff;
+}
+
+.footer_link {
+  color: blanchedalmond;
 }
 
 /* ===== MEDIA QUERIES=====*/
